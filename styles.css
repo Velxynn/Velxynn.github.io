@@ -12,7 +12,7 @@ audio{
 }
 
 body{
-  	background: #7d2ae8;
+  	background: #FFD7EA;
 }
 
 .body{
@@ -49,5 +49,5 @@ button{
 .description{
     font-family: 'Poppins', sans-serif;
     color: white;
-    font-size: 20px;
+    font-size: 26px;
 }
