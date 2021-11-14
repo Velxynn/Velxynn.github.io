@@ -12,7 +12,7 @@ audio{
 }
 
 body{
-  	background: #ffd7ea;
+  	background: #FFBDDD;
 }
 
 .body{
@@ -24,7 +24,7 @@ body{
 }
 ::selection{
   	color: #fff;
-  	background: #ffd7ea;
+  	background: #FFBDDD;
 }
 
 button{
@@ -39,7 +39,7 @@ button{
 	position: absolute;
  	left: 50%;
 	top: 50%;
- 	color: #ffd7ea;
+ 	color: #FFBDDD;
  	font-size: 18px;
 	padding: 10px 25px;
  	background: #fff;
